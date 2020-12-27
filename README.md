@@ -22,5 +22,9 @@ Helps in synthesis and recognition of voice.
 ## What Is VoiceId?
 #### Voice id helps us to select different voices.
 voice[0].id = Male voice 
+
+
 voice[1].id = Female voice
 
+## To search something on Wikipedia 
+ To do Wikipedia searches, we need to install and import the Wikipedia module into our program. Type the below command to install the Wikipedia module :pip install wikipedia
